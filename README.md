@@ -5,7 +5,7 @@
   <p>I have to study the Ruby language and I decided to make a little present for my love. This project is a little joke for your future wife or husband with a yandere tone. </p>
 </div>
 <div align="center" style="display: inline-block">
-  <img src="2.png" width="300"/>
-  <img scr="1.png" width="300"/>
+  <img src="2.png" height="400"/>
+  <img scr="1.png" height="400"/>
 </div>
 
