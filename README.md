@@ -18,7 +18,7 @@
     </a> <br> <br> 
 </div>
 
-<div align="justify" style="display: flex">
+<div align="justify" style="display: inline-block">
     <img align="right" src="2.png" height="400"/>
     <div align="left">
         <h2>☆</h2>
