@@ -29,7 +29,7 @@
         <h2>☆</h2>
         <p>EN</p>
         <p>
-            I have to study the Ruby language, so I decided to make a little present for my love. <br> This project is a little joke for your future wife or husband with a yandere tone
+            I have to study the Ruby language, so I decided to make a little present for my love. <br> This project is a little joke for your future wife or husband with a yandere tone.
         </p>
     </div>
 </div>
