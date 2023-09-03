@@ -15,9 +15,10 @@
     <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-red?style=for-the-badge&color=9d0208">
     </a>
+        <a href="https://www.dio.me/users/juhh1956">
+        <img alt="Static Badge" src="https://img.shields.io/badge/...-red?style=for-the-badge&color=9d0208">
     </a> <br> <br> 
 </div>
-
 <div align="justify" style="display: inline-block">
     <img align="right" src="2.png" height="400"/>
     <div align="left">
