@@ -1,5 +1,7 @@
 <h1 align="center">
-    <span>💍Marry</span>
+    <a href="marry.rb">
+        <span>💍Marry </span>
+    </a>
 </h1>
 
 <div align="center">
