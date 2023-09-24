@@ -1,8 +1,9 @@
-    puts "Do you, {full name}, wanna mary with me? "
+puts "Do you, {full name}, wanna mary with me? "
+yes = ["Yes", "Yeap", "Yeah", "yes", "yeap", "yeah", "y", "Y", "yy", "YY"]
 
 loop do 
     res = gets.chomp
-    if res == "yes"
+    if yes.include? res then
         puts "I love u so honey!!! ^^"
         101.times do |contador|
             puts "I love you #{contador}%"
