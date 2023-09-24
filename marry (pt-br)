@@ -1,0 +1,15 @@
+puts "Você, {nome completo}, aceita se casar comigo? "
+sim = ["Sim", "sim", "s", "S", "sss", "SSS", "SS", "ss", "yes", "yeap"]
+
+loop do 
+    res = gets.chomp
+    if sim.include? res then
+        puts "Gatinho eu te amo muito!!! ^^"
+        101.times do |contador|
+            puts "Eu te amo #{contador}%"
+        end
+        break
+    else
+        puts "vc acha mesmo que vou aceitar algo diferente de sim?"
+    end
+end
